@@ -1,0 +1,3 @@
+/csse/users/jwi179/Documents/COSC363/assignment/build/CMakeFiles/Ass.out.dir
+/csse/users/jwi179/Documents/COSC363/assignment/build/CMakeFiles/edit_cache.dir
+/csse/users/jwi179/Documents/COSC363/assignment/build/CMakeFiles/rebuild_cache.dir
