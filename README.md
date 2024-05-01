@@ -1,3 +1,5 @@
+# COSC363 Assignment 1
+
 # Description
 The scene depicts an alien spaceship landed on earth at night and under attack. There are 6 missile turrets are surrounding the spaceship and constantly firing at it. There are 5 aliens in the scene, 1 piloting the spaceship and 4 running away. There is a spotlight on a nearby tower highlighting the aliens running away. 
 
